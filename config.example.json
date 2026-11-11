@@ -1,0 +1,13 @@
+{
+  "spotify": {
+    "clientId": "YOUR_SPOTIFY_CLIENT_ID",
+    "clientSecret": "YOUR_SPOTIFY_CLIENT_SECRET"
+  },
+  "app": {
+    "cameraIndex": 1,
+    "detectIntervalSeconds": 5,
+    "defaultLanguage": "english",
+    "defaultGenre": "pop",
+    "modelPath": "data/emotion-ferplus.onnx"
+  }
+}

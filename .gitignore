@@ -1,0 +1,16 @@
+# Credentials and Local Config
+config.json
+.env
+
+# Large deep learning models
+*.onnx
+*.mat
+
+# Temporary files and audio caches
+temp_preview*.mp3
+*.asv
+*.log
+
+# MATLAB system files
+.SimulinkProject/
+_Reval/

@@ -1,0 +1,15 @@
+fastapi==0.115.0
+uvicorn[standard]==0.35.0
+fer==22.5.0
+deepface==0.0.93
+opencv-python-headless==4.8.1.78
+torch==2.2.2
+torchvision==0.17.2
+requests==2.32.3
+python-dotenv==1.0.1
+numpy==1.26.4
+moviepy==1.0.3
+python-multipart==0.0.9
+tensorflow==2.15.1
+tf-keras==2.15.0
+spotipy==2.23.0
